@@ -1,6 +1,6 @@
 from tkinter import *
 import math
-from sympy import symbols,Eq,solve
+from sympy import symbols,solve
 
 root=Tk()
 root.title("Calculator")
